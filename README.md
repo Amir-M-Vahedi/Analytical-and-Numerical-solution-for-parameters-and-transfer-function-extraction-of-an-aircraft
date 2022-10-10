@@ -1,0 +1,1 @@
+# Analytical-and-Numerical-solution-for-parameters-and-transfer-function-extraction-of-an-aircraft
