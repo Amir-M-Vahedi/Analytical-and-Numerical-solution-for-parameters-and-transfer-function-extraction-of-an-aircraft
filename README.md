@@ -1,4 +1,4 @@
-# Analytical & Numerical solution for parameters and transfer function extraction of the given aircraft
+# Analytical & Numerical Solution for Aircraft Parameters and Transfer Function Extraction
 
 ## Overview
 This project undertakes the analytical and numerical extraction of parameters and transfer functions for 20 aircraft detailed in Appendix B of Reference [1]. Utilizing MATLAB, we feed in-flight dynamic and aerodynamic data, applying established rules to calculate the requested parameters and transfer functions as listed in the provided image.
